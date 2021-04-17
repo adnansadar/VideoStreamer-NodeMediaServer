@@ -1,6 +1,6 @@
 # VideoStreamer-NodeMediaServer
 [Front End Link](https://github.com/adnansadar/Video-Streamer-FrontEnd)
-[Back End Link] (https://github.com/adnansadar/VideoStreamer-Backend)
+[Back End Link](https://github.com/adnansadar/VideoStreamer-Backend)
 Node Media Server is an npm package required for live streaming our video
 
 ## Available Scripts
